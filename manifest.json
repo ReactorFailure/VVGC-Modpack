@@ -1,7 +1,7 @@
 {
     "name": "VVGC Modpack",
     "version_number": "1.0.0",
-    "website_url": "",
+    "website_url": "https://github.com/ReactorFailure/VVGC-Modpack",
     "description": "A modpack for the Vanier Video Games Club",
     "dependencies": [
         "BepInEx-BepInExPack_H3VR-5.4.1700",
