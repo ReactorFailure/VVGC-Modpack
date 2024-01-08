@@ -17,4 +17,6 @@ A Lethal Company modpack for the Vanier Video Games Club.
 | MaskedEnemyOverhaul | HomelessGinger | `v2.2.1` | https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/ |
 | LateCompany | anormaltwig | `v1.0.9` | https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/ |
 | Coroner | EliteMasterEric | `v1.5.3` | https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/ |
+
+
 ![choking-man-25496223](https://github.com/ReactorFailure/VVGC-Modpack/assets/69980969/c620d8d6-ef01-4958-a4e2-2c7677445bce)
