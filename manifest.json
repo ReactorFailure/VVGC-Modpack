@@ -2,7 +2,7 @@
     "name": "VVGC Modpack",
     "version_number": "1.0.0",
     "website_url": "",
-    "description": "A modpack for the Vanier Video Game Club",
+    "description": "A modpack for the Vanier Video Games Club",
     "dependencies": [
         "BepInEx-BepInExPack_H3VR-5.4.1700",
         "notnotnotswipez-MoreCompany-1.7.2",
