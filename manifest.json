@@ -1,0 +1,18 @@
+{
+    "name": "VVGC Modpack",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "A modpack for the Vanier Video Game Club",
+    "dependencies": [
+        "BepInEx-BepInExPack_H3VR-5.4.1700",
+        "notnotnotswipez-MoreCompany-1.7.2",
+        "taffyko-BetterSprayPaint-1.1.0",
+        "TanmanG-Forest_Giant_Motionsense-1.0.0",
+        "egeadam-MoreScreams-1.0.3",
+        "RugbugRedfern-Skinwalkers-2.0.1",
+        "Astro-LightSwitchNoMore-1.0.0",
+        "HomelessGinger-MaskedEnemyOverhaul-2.2.1",
+        "anormaltwig-LateCompany-1.0.9",
+        "EliteMasterEric-Coroner-1.5.3"
+    ]
+}
