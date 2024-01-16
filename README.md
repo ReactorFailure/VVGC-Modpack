@@ -2,8 +2,8 @@
 A Lethal Company modpack for the Vanier Video Games Club.
 Link: https://thunderstore.io/c/lethal-company/p/VVGC/VVGC_Modpack/
 
-### Current Verion
-`v1.1.0`
+### Current Version
+`v1.0.1`
 
 ## Dependencies
 | Mod Name | Author | Version | Link |
