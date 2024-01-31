@@ -3,7 +3,7 @@ A Lethal Company modpack for the VVGC Club.
 Link: https://thunderstore.io/c/lethal-company/p/VVGC/VVGC_Modpack/
 
 ### Current Version
-`v1.1.1`
+`v1.1.2`
 
 ## Dependencies
 | Mod Name | Author | Version | Link |
